@@ -13,4 +13,4 @@ Based on the case statement, I performed SQL queries to answer ad hoc requests f
 
 # DASHBOARD
 
-<img src "https://github.com/Vijay290197/Atliq_Software_Business_Insights/blob/main/Dashboard_image.png?raw=true" >
+<img src= "https://github.com/Vijay290197/Atliq_Software_Business_Insights/blob/main/Dashboard_image.png?raw=true" >
